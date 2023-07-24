@@ -37,6 +37,7 @@ a{
 
 .img-circle {
   width: 200px;
+  overflow: hidden;
   border-radius: 50%;
 }
 
